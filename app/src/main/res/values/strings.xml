@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bold rope walker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="setting">Setting</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="language">Language</string>
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="best_score">Best Score</string>
+    <string name="score">Score</string>
+</resources>
